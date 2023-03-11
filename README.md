@@ -1,3 +1,4 @@
 # GitTes
 aiueo
 kakikukeko
+sashimi
